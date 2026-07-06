@@ -30,7 +30,7 @@ Your agent is brilliant. Left alone, it is also a very confident intern. So the 
 | **CALLIOPE**, chief of the Muses | [calliope](https://github.com/eragonlonelyboy-lab/calliope) | Runs a full design agency in your terminal, gated by a QA lead who does not accept "looks fine" |
 | **MAAT**, goddess of order | [maat](https://github.com/eragonlonelyboy-lab/maat) | One local screen over every agent you run: each "done" gets weighed against the feather of truth |
 
-More gods are in the house.
+More gods are ascending.
 
 ## The doctrine
 
