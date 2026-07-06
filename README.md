@@ -21,14 +21,14 @@ Your agent is brilliant. Left alone, it is also a very confident intern. So the 
 
 | God | Repo | Day job |
 |---|---|---|
-| **HORKOS**, god of oaths | [horkos](https://github.com/eragonlonelyboy-lab/horkos) | Your agent swore it was done. HORKOS makes the artifact testify before the session may end |
-| **MONETA**, goddess of the mint | [moneta](https://github.com/eragonlonelyboy-lab/moneta) | Minds the token spend: warnings before waste, a lower-bound savings ledger after, no fake numbers |
-| **HYPNOS**, god of sleep | [hypnos](https://github.com/eragonlonelyboy-lab/hypnos) | Consolidates agent memory the way sleep consolidates yours: every change a diff, nothing ever deleted |
-| **CHIRON**, trainer of heroes | [chiron](https://github.com/eragonlonelyboy-lab/chiron) | Trained Achilles; now trains your agents. Every correction becomes a permanent rule, across every agent you run |
-| **ATHENA**, goddess of wisdom | [athena](https://github.com/eragonlonelyboy-lab/athena) | Does not say "great idea!". Puts your decisions on trial: one GO / RESHAPE / KILL verdict, on the record |
-| **VERITAS**, goddess of truth | [veritas](https://github.com/eragonlonelyboy-lab/veritas) | Reads your AI's prose and reaches for the red pen. Strips the tells, keeps your voice, audits its own rewrite |
-| **CALLIOPE**, chief of the Muses | [calliope](https://github.com/eragonlonelyboy-lab/calliope) | Runs a full design agency in your terminal, gated by a QA lead who does not accept "looks fine" |
-| **MAAT**, goddess of order | [maat](https://github.com/eragonlonelyboy-lab/maat) | One local screen over every agent you run: each "done" gets weighed against the feather of truth |
+| **HORKOS**, god of oaths | [horkos](https://github.com/eragonlonelyboy-lab/horkos) | **Guardrails for AI agents.** Your agent swore it was done; HORKOS makes the artifact testify before the session may end |
+| **MONETA**, goddess of the mint | [moneta](https://github.com/eragonlonelyboy-lab/moneta) | **AI FinOps.** Minds the token spend: warnings before waste, a lower-bound savings ledger, no fake numbers |
+| **HYPNOS**, god of sleep | [hypnos](https://github.com/eragonlonelyboy-lab/hypnos) | **The memory layer.** Consolidates agent memory the way sleep consolidates yours: every change a diff, nothing ever deleted |
+| **CHIRON**, trainer of heroes | [chiron](https://github.com/eragonlonelyboy-lab/chiron) | **The self-improving loop.** Trained Achilles; now trains your agents: every correction becomes a permanent rule across every agent you run |
+| **ATHENA**, goddess of wisdom | [athena](https://github.com/eragonlonelyboy-lab/athena) | **Red-team your decisions.** A wise war council with Sun Tzu's terrain read: one GO / RESHAPE / KILL verdict, on the record |
+| **VERITAS**, goddess of truth | [veritas](https://github.com/eragonlonelyboy-lab/veritas) | **Kill the AI slop.** Reads your AI's prose with a red pen: strips the tells, keeps your voice, audits its own rewrite |
+| **CALLIOPE**, chief of the Muses | [calliope](https://github.com/eragonlonelyboy-lab/calliope) | **The agentic design agency.** A full design studio in your terminal, gated by a QA lead who does not accept "looks fine" |
+| **MAAT**, goddess of order | [maat](https://github.com/eragonlonelyboy-lab/maat) | **The Agentic OS.** One local screen over every agent you run: each "done" weighed against the feather of truth |
 
 More gods are ascending.
 
