@@ -41,6 +41,7 @@ Every god here obeys the same laws, and each repo states them as product law, no
 3. **Warn first, never trap.** Warn-mode defaults, dry-run defaults, bounded retries, archive-not-delete. You always see the plan, always restore, always leave.
 4. **Honest numbers only.** Every repo ships `docs/HONEST-NUMBERS.md`: what the numbers cannot prove, when the tool is the wrong tool, and the one honest test. Every claimed number has a committed benchmark you rerun with `npm test`.
 5. **Windows first, MIT always.** Tested on the OS most dev tools treat as an afterthought, licensed with the file actually in the repo.
+6. **Verify at the layer of the claim, and prefer an outside check.** "Done" is proven where the claim lives: the re-fetched page, the rendered screen, the counted rows, not the layer below it. A check run by something other than the maker beats self-review, because the maker leans toward the conclusion it already built. And every lesson worth keeping is written down, so the next run starts where the last one ended. The gods are how a house makes those habits automatic instead of optional.
 
 ## The stack
 
