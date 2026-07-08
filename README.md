@@ -29,6 +29,9 @@ Your agent is brilliant. Left alone, it is also a very confident intern. So the 
 | **VERITAS**, goddess of truth | [veritas](https://github.com/eragonlonelyboy-lab/veritas) | **Kill the AI slop.** Reads your AI's prose with a red pen: strips the tells, keeps your voice, audits its own rewrite |
 | **CALLIOPE**, chief of the Muses | [calliope](https://github.com/eragonlonelyboy-lab/calliope) | **The agentic design agency.** A full design studio in your terminal, gated by a QA lead who does not accept "looks fine" |
 | **MAAT**, goddess of order | [maat](https://github.com/eragonlonelyboy-lab/maat) | **The Agentic OS.** One local screen over every agent you run: each "done" weighed against the feather of truth |
+| **ZOILUS**, scourge of Homer | [zoilus](https://github.com/eragonlonelyboy-lab/zoilus) | **The merciless critic.** He found fault in Homer; now a blind panel judges your artifact against a world-class bar, and rejects on doubt |
+| **PEITHO**, goddess of persuasion | [peitho](https://github.com/eragonlonelyboy-lab/peitho) | **Go-to-market.** Positioning, angles, offers, and the assets to run them, behind a gate that refuses to let any of it sound generic |
+| **PYRRHO**, founder of skepticism | [pyrrho](https://github.com/eragonlonelyboy-lab/pyrrho) | **The skeptic.** Suspends judgment until the data earns it: sampling, bias, and every claim weighed against the evidence behind it |
 
 More gods are ascending.
 
@@ -54,6 +57,9 @@ Each god works alone. Together they close loops no single tool can:
 | CHIRON + HORKOS | the failure HORKOS catches today becomes a rule your agents obey forever |
 | HYPNOS + CHIRON | rules compile in clean and stay clean: contradictions surfaced, duplicates merged, budgets enforced |
 | VERITAS + CALLIOPE | client-facing words gated twice: once for slop, once for craft |
+| HORKOS + ZOILUS | both halves of trust: HORKOS proves the work landed, ZOILUS proves it was worth keeping |
+| ZOILUS + CHIRON | the rejection ZOILUS names once becomes a rule the producer can no longer break |
+| PEITHO + PYRRHO | no conversion number reaches a landing page before the data has earned it |
 | MAAT over all of it | one screen, every agent, receipts behind every status |
 
 ## Pick your god
@@ -70,6 +76,9 @@ Start where it hurts most:
 - Prose that smells like a model? **VERITAS.**
 - Design work below the bar? **CALLIOPE.**
 - Too many agents, one pair of eyes? **MAAT.**
+- Shipping work that is merely fine? **ZOILUS.**
+- Launch copy that sounds like every other launch? **PEITHO.**
+- A number in a slide nobody has audited? **PYRRHO.**
 
 ## The fair trade
 
