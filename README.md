@@ -45,6 +45,7 @@ Every god here obeys the same laws, and each repo states them as product law, no
 4. **Honest numbers only.** Every repo ships `docs/HONEST-NUMBERS.md`: what the numbers cannot prove, when the tool is the wrong tool, and the one honest test. Every claimed number has a committed benchmark you rerun with `npm test`.
 5. **Windows first, MIT always.** Tested on the OS most dev tools treat as an afterthought, licensed with the file actually in the repo.
 6. **Verify at the layer of the claim, and prefer an outside check.** "Done" is proven where the claim lives: the re-fetched page, the rendered screen, the counted rows, not the layer below it. A check run by something other than the maker beats self-review, because the maker leans toward the conclusion it already built. And every lesson worth keeping is written down, so the next run starts where the last one ended. The gods are how a house makes those habits automatic instead of optional.
+7. **Same standard, shorter stride.** The laws never bend to a weaker model; the step size does. On a lesser substrate: smaller slices of work, each verified before the next; judgment moved out of the model and into checklists, rubrics, and checks it can run; state written earlier and more often. A task that keeps failing escalates to a stronger model. The process never loosens to make weakness look like success.
 
 ## The stack
 
