@@ -21,6 +21,7 @@ Your agent is brilliant. Left alone, it is also a very confident intern. So the 
 
 | God | Repo | Day job |
 |---|---|---|
+| **ARETE**, excellence itself | [arete](https://github.com/eragonlonelyboy-lab/arete) | **The operating standard.** Five working-discipline gates any model can run, compiled into your agents, with a falsifiable bench that proves whether it moved behavior. The standard the other gods are organs of |
 | **HORKOS**, god of oaths | [horkos](https://github.com/eragonlonelyboy-lab/horkos) | **Guardrails for AI agents.** Your agent swore it was done; HORKOS makes the artifact testify before the session may end |
 | **MONETA**, goddess of the mint | [moneta](https://github.com/eragonlonelyboy-lab/moneta) | **AI FinOps.** Minds the token spend: warnings before waste, a lower-bound savings ledger, no fake numbers |
 | **HYPNOS**, god of sleep | [hypnos](https://github.com/eragonlonelyboy-lab/hypnos) | **The memory layer.** Consolidates agent memory the way sleep consolidates yours: every change a diff, nothing ever deleted |
@@ -58,6 +59,7 @@ Each god works alone. Together they close loops no single tool can:
 | CHIRON + HORKOS | the failure HORKOS catches today becomes a rule your agents obey forever |
 | HYPNOS + CHIRON | rules compile in clean and stay clean: contradictions surfaced, duplicates merged, budgets enforced |
 | VERITAS + CALLIOPE | client-facing words gated twice: once for slop, once for craft |
+| ARETE + CHIRON | corrections carry a failure-class tag; the panel names the gate that leaks most, and that gate is the next to harden |
 | HORKOS + ZOILUS | both halves of trust: HORKOS proves the work landed, ZOILUS proves it was worth keeping |
 | ZOILUS + CHIRON | the rejection ZOILUS names once becomes a rule the producer can no longer break |
 | PEITHO + PYRRHO | no conversion number reaches a landing page before the data has earned it |
@@ -69,6 +71,7 @@ Each repo installs in one or two commands, PowerShell shown first, re-run safe, 
 
 Start where it hurts most:
 
+- New model, same sloppy habits? **ARETE.**
 - Agent says "done" and it wasn't? **HORKOS.**
 - Context window evaporating? **MONETA.**
 - CLAUDE.md, AGENTS.md, and Cursor rules disagreeing? **HYPNOS.**
