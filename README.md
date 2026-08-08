@@ -33,6 +33,7 @@ Your agent is brilliant. Left alone, it is also a very confident intern. So the 
 | **ZOILUS**, scourge of Homer | [zoilus](https://github.com/eragonlonelyboy-lab/zoilus) | **The merciless critic.** He found fault in Homer; now a blind panel judges your artifact against a world-class bar, and rejects on doubt |
 | **PEITHO**, goddess of persuasion | [peitho](https://github.com/eragonlonelyboy-lab/peitho) | **Go-to-market.** Positioning, angles, offers, and the assets to run them, behind a gate that refuses to let any of it sound generic |
 | **PYRRHO**, founder of skepticism | [pyrrho](https://github.com/eragonlonelyboy-lab/pyrrho) | **The skeptic.** Suspends judgment until the data earns it: sampling, bias, and every claim weighed against the evidence behind it |
+| **OGMA**, god of eloquence | [ogma](https://github.com/eragonlonelyboy-lab/ogma) | **Docs with receipts.** Reads the codebase once into one receipt-backed graph and renders it per audience: every fact cites file:line, a blind witness checks the claim against the cited code, and ten deterministic checks sign the result |
 
 More gods are ascending.
 
@@ -63,6 +64,7 @@ Each god works alone. Together they close loops no single tool can:
 | HORKOS + ZOILUS | both halves of trust: HORKOS proves the work landed, ZOILUS proves it was worth keeping |
 | ZOILUS + CHIRON | the rejection ZOILUS names once becomes a rule the producer can no longer break |
 | PEITHO + PYRRHO | no conversion number reaches a landing page before the data has earned it |
+| OGMA alone | a PRD, impl notes, and user guides that cannot cite code nobody verified |
 | MAAT over all of it | one screen, every agent, receipts behind every status |
 
 ## Pick your god
@@ -83,6 +85,7 @@ Start where it hurts most:
 - Shipping work that is merely fine? **ZOILUS.**
 - Launch copy that sounds like every other launch? **PEITHO.**
 - A number in a slide nobody has audited? **PYRRHO.**
+- Docs that were true in March? **OGMA.**
 
 ## The fair trade
 
